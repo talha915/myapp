@@ -10,9 +10,9 @@ export default class Home extends Component {
         return(
             <View>
                 <Text>
-                    HOME PAGE
+                    Home Page
                 </Text>
             </View>
         );
     }
-} 
+}

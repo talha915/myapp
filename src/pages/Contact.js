@@ -5,14 +5,14 @@ import {
     Text
 } from 'react-native';
 
-export default class SPORTS extends Component {
+export default class Contact extends Component {
     render(){
         return(
             <View>
                 <Text>
-                   SPORTS PAGE
+                    Contact
                 </Text>
             </View>
         );
     }
-} 
+}

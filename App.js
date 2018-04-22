@@ -11,7 +11,7 @@ import {
   Text,
   View
 } from 'react-native';
-import Screens from './src/components/router';
+import Screens from './src/config/router';
 
 export default class App extends Component{
   render() {
